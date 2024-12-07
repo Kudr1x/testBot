@@ -1,0 +1,15 @@
+.idea
+.kotlin
+out/*
+*.iml
+target
+
+settings.xml
+
+.gradle/
+build/
+out/
+
+local.*
+local.*/
+secret.gradle
